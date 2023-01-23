@@ -69,7 +69,7 @@
         <version>3.0.0-M8</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>smoke.xml</suiteXmlFile>
+            <suiteXmlFile>smokesuite.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
@@ -90,7 +90,7 @@
         <version>3.0.0-M8</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>Regression.xml</suiteXmlFile>
+            <suiteXmlFile>regressionsuite.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
